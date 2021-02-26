@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I Watch each and every Match of FC Barcelona..
 
 [![Twitter: Mantosh_55](https://img.shields.io/twitter/follow/Mantosh_55?style=social)](https://twitter.com/Mantosh_55)
-[![Linkedin: MantoshSah](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mantosh-sah-3a421b1b7/)](https://www.linkedin.com/in/mantosh-sah-3a421b1b7/)
+[![Linkedin: Mantosh](https://img.shields.io/badge/-mantoshsah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mantosh-sah-3a421b1b7/)](https://www.linkedin.com/in/mantosh-sah-3a421b1b7/)
 [![GitHub mantu1738](https://img.shields.io/github/followers/mantu1738?label=follow&style=social)](https://github.com/mantu1738)
 
 
