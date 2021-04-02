@@ -42,10 +42,25 @@
 <a href="https://github.com/mantu1738">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantu1738&theme=light&hide_langs_below=1" />
 </a>
+
+
 <a href="https://github.com/mantu1738">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mantu1738&show_icons=true&theme=light&line_height=27" alt="Mantu''s github stats"/>
 </a>
+
+
+
+<br/>
+<br/>
+
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=mantu1738&theme=light">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mantu1738&theme=light" alt="Mantu''s github streak"/>
+</a>
+
 <div align="center">
+  
+
 
 ### Show some ❤️ by starring some of the repositories!
 
