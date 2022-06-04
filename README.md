@@ -33,20 +33,20 @@
 
 
 **Languages and Tools:**
-
+<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 
 <a href="https://github.com/mantu1738">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantu1738&theme=light&hide_langs_below=1" />
 </a>
 
 
-<a href="https://github.com/mantu1738">
+<!-- <a href="https://github.com/mantu1738">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mantu1738&show_icons=true&theme=light&line_height=27" alt="Mantu''s github stats"/>
-</a>
+</a> -->
 
 
 
