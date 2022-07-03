@@ -22,7 +22,7 @@
 <br/>
 
 - 🔭 I’m currently working on small projects on Javascript and React.js Application.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning and working on React.js.
 - 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about HTML, CSS, SASS and BootStrap
 - ⚡ Fun fact: I Watch each and every Match of FC Barcelona..
