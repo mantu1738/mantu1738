@@ -21,10 +21,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on small projects on Javascript and React.js Application.
-- 🌱 I’m currently learning and working on React.js.
+- 🔭 I’m currently working on Typescript and Angular.
+- 🌱 My tech stack in frontend are: React, Vue and Angular
 - 👯 I’m looking to collaborate on Creative Projects
-- 💬 Ask me about HTML, CSS, SASS and BootStrap
+- 💬 Ask me aboutfrontend development
 - ⚡ Fun fact: I Watch each and every Match of FC Barcelona..
 
 [![Twitter: Mantosh_55](https://img.shields.io/twitter/follow/Mantosh_55?style=social)](https://twitter.com/Mantosh_55)
